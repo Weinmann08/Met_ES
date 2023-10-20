@@ -14,3 +14,12 @@ Clase 1: 07/08/2023
 + :dart: Realizar la primera sincronizacion  del proyecto y la nube
 
 
+# Actividad 3 hipotesis (nula y relativa)
+clase 15/08/2023
+
+ #objetivo
++ :dart: saber desarrollar en hipotesis 
+ 
++ :dart: formular declaraciones claras que pueden ser utilizadas en pruebas estadisticas 
+ 
++ :dart: desarrollar habilidades en los metodos cientificos y la investigacion 
