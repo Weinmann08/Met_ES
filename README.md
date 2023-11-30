@@ -61,3 +61,6 @@ clase 10/10/2023
 clase 28/11/2023
  
  + :dart: Usamos datos individuales y realizamos, media, mediana, hipotesis, graficas, etc
+# Grafica de atribucion 
+![](https://github.com/Weinmann08/Met_ES/blob/main/grafica.JPG)
+
